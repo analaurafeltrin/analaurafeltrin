@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center"> 
 
-<!--
-**analaurafeltrin/analaurafeltrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# *Ana Laura Feltrin* 💫 
 
-Here are some ideas to get you started:
+  <img src="./type-keyboard.gif" width="200" height="200"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hello, World! 👋
+
+### 🔹 My name is Ana Laura. 
+
+### 🔹I am a psychologist and a beginner in programming as a front-end developer.
+
+### 🔹Every day, I challenge myself to learn more about the field, especially:
+
+
+#### 📍 HTML
+#### 📍 CSS 
+#### 📍 JavaScript
+#### 📍 ReactJS 
+          
+
+### I am very excited to continue this journey! 💪
+
+### 🌐 [Linkedin](https://www.linkedin.com/in/analaurafeltrin/)
