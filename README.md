@@ -14,10 +14,10 @@
 ### 🔹Every day, I challenge myself to learn more about the field, especially:
 
 
-#### 📍 HTML
-#### 📍 CSS 
-#### 📍 JavaScript
-#### 📍 ReactJS 
+### 📍 HTML
+### 📍 CSS 
+### 📍 JavaScript
+### 📍 ReactJS 
           
 
 ### I am very excited to continue this journey! 💪
