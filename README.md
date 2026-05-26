@@ -7,19 +7,13 @@
 
 ## Hello, World! 👋
 
-### 🔹 My name is Ana Laura. 
+My name is Ana Laura — a psychologist transitioning into front-end development.
+Every day I challenge myself to learn something new, currently focused on:
 
-### 🔹I am a psychologist and a beginner in programming as a front-end developer.
+📍 HTML & CSS
+📍 JavaScript
+📍 ReactJS (in progress)
 
-### 🔹Every day, I challenge myself to learn more about the field, especially:
+Feel free to explore my projects [here](https://github.com/analaurafeltrin?tab=repositories) 👈
 
-
-### 📍 HTML
-### 📍 CSS 
-### 📍 JavaScript
-### 📍 ReactJS 
-          
-
-### I am very excited to continue this journey! 💪
-
-### 🌐 [Linkedin](https://www.linkedin.com/in/analaurafeltrin/)
+🌐 [LinkedIn](https://www.linkedin.com/in/analaurafeltrin/)
