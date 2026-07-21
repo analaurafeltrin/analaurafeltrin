@@ -13,8 +13,11 @@ Recentemente, iniciei meus estudos em Análise e Desenvolvimento de Sistemas, pa
 Todos os dias me desafio a aprender algo novo, atualmente focada em:
 
 📍 HTML & CSS
+
 📍 JavaScript
+
 📍 ReactJS (em andamento)
+
 📍 TypeScript (em andamento)
 
 Sinta-se à vontade para explorar meus projetos [aqui](https://github.com/analaurafeltrin?tab=repositories) 👈
