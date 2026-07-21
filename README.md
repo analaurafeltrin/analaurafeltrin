@@ -8,6 +8,7 @@
 ## Olá, Mundo! 👋
 
 Meu nome é Ana Laura — psicóloga em transição para o desenvolvimento Front-End e, futuramente, Full Stack.
+
 Recentemente, iniciei meus estudos em Análise e Desenvolvimento de Sistemas, para me aprofundar na área e conhecer novas vertentes!
 Todos os dias me desafio a aprender algo novo, atualmente focada em:
 
