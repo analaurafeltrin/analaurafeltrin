@@ -2,19 +2,20 @@
 
 # *Ana Laura Feltrin* 💫 
 
-  <img src="./type-keyboard.gif" width="200" height="200"/>
+<img src="./type-keyboard.gif" width="200" height="200"/>
 </div>
 
-## Hello, World! 👋
+## Olá, Mundo! 👋
 
-My name is Ana Laura — a psychologist transitioning into front-end development.
-Every day I challenge myself to learn something new, currently focused on:
+Meu nome é Ana Laura — psicóloga em transição para o desenvolvimento Front-End e, futuramente, Full Stack.
+Recentemente, iniciei meus estudos em Análise e Desenvolvimento de Sistemas, para me aprofundar na área e conhecer novas vertentes!
+Todos os dias me desafio a aprender algo novo, atualmente focada em:
 
 📍 HTML & CSS
 📍 JavaScript
-📍 ReactJS (in progress)
-📍 TypeScript (in progress)
+📍 ReactJS (em andamento)
+📍 TypeScript (em andamento)
 
-Feel free to explore my projects [here](https://github.com/analaurafeltrin?tab=repositories) 👈
+Sinta-se à vontade para explorar meus projetos [aqui](https://github.com/analaurafeltrin?tab=repositories) 👈
 
 🌐 [LinkedIn](https://www.linkedin.com/in/analaurafeltrin/)
